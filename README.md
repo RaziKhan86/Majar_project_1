@@ -34,12 +34,7 @@ Online Food Ordering System in PHP
 9.  All the login details are provided inside the project folder, check that out and enter them in order to use it. <br/>
 
 ### Admin Login Info Details
-
-Email : ccbd <br/> Password: Watch This Youtube <a href = "https://www.youtube.com/watch?v=cQNX1PgWqL4&lc=UgxOVgDFfPgSoNiGlzJ4AaABAg" target="_blank"> Video </a> <br/> Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
-
-Subcribe my You tube Channel \***\* <a href="https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw" target="_blank">Subscribe</a> \*\***
-
-Author : MH RONY <br/> Website Link: https://developerrony.com <br /> GitHub Link: https://github.com/dev-mhrony <br /> Youtube Video Link:https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br /> Youtube Channel Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+after download or setup all those things. you just go mysql database and go laundry and next go to admin where you can see a username and password of admin.
 
 ## Frontend Preview
 
